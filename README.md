@@ -1,4 +1,4 @@
-# ✦ ZenFlow — Smart Daily Journal v7
+# ✦ Task Manager — Smart Daily Journal
 
 ## 🚀 How to Run
 
@@ -44,16 +44,6 @@ npm start
 ```
 
 ---
-
-## ✅ What's New in v7
-
-| Feature | Detail |
-|---------|--------|
-| 📅 Task History | Sidebar → "🗓 Task History" — browse by date, expand to see tasks, delete per-day or all |
-| 💬 Feedback Card | Analytics page → write mood-tagged notes, saved & deletable |
-| ⭐ Star Rating | Each task row has 5 stars — click to rate 1-5, click same star to clear |
-| 🖼 Profile Picture | Profile → "📷 Change Photo" uploads base64 image (max 2MB) |
-| ✅ Page Headings | All section headings animate in once on page load and stay permanently visible |
 
 ## 🏗 Project Structure
 ```
